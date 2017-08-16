@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Save"
+        android:id="@+id/save"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_save"/>
+
+    <item android:title="Setting"
+        android:id="@+id/setting"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_settings"
+        />
+    <item android:title="Java"
+        android:id="@+id/jave"
+        app:showAsAction="never"/>
+
+    <item android:title="Php"
+        android:id="@+id/php"
+        app:showAsAction="never"/>
+
+    <item android:title="Android"
+        android:id="@+id/android"
+        app:showAsAction="never"/>
+</menu>

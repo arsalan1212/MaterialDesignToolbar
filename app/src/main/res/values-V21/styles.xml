@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyCustomTheme" parent="AppTheme">
+        <!-- CUSTOMIZE IT ACCORDING TO YOUR REQUIREMENT -->
+    </style>
+</resources>
